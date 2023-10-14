@@ -2,7 +2,7 @@
 <h3 align="center">a  pre-final year Student at G.B Pant Institute of Engineering and Technology, pursuing B.Tech in Computer Science and Engineering. I am a FullStack Web Developer and a Freelance Web Developer. A dedicated IT professional possessing a passion for programming and seeking a software engineering position where I can utilize my development and coding skills to efficiently fulfil the requirements of clients.</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif" >
+<img align="right" alt="coding" width="400" <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshnautiyal7" alt="ashutoshnautiyal7" /></a> </p>
 
