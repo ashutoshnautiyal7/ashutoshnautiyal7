@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Nautiyal</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh </h1>
 <h3 align="center">a  pre-final year Student at G.B Pant Institute of Engineering and Technology, pursuing B.Tech in Computer Science and Engineering. I am a FullStack Web Developer and a Freelance Web Developer. A dedicated IT professional possessing a passion for programming and seeking a software engineering position where I can utilize my development and coding skills to efficiently fulfil the requirements of clients.</h3>
 
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Bliss With Bharath](blisswithbharath.com)
+
 
 - 🌱 I’m currently learning **Docker**
 
