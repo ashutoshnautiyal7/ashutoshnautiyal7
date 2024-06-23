@@ -33,13 +33,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshnautiyal7&" alt="ashutoshnautiyal7" /></p>
 
 
-## Find me around the web 🌎:
-- Sharing updates on <a href="https://naveenjujaray.js.org">naveenjujaray.js.org</a> 📹 ✍🏼
-- Contact me on <a href="https://www.linkedin.com/in/naveenjujaray/">LinkedIn</a> 💼
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshnautiyal7&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenjujaray&layout=compact)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenjujaray&custom_title=Naveen%20Jujaray's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutoshnautiyal7&custom_title=Ashutosh%20Nautiyal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naveenjujaray/naveenjujaray/output/github-contribution-grid-snake-dark.svg">
