@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh </h1>
-<h3 align="center">a  pre-final year Student at G.B Pant Institute of Engineering and Technology, pursuing B.Tech in Computer Science and Engineering. I am a FullStack Web Developer and a Freelance Web Developer. A dedicated IT professional possessing a passion for programming and seeking a software engineering position where I can utilize my development and coding skills to efficiently fulfil the requirements of clients.</h3>
+<h3 align="center">Final year Student at G.B Pant Institute of Engineering and Technology, pursuing B.Tech in Computer Science and Engineering. I am a FullStack Web Developer and a Freelance Web Developer. A dedicated IT professional possessing a passion for programming and seeking a software engineering position where I can utilize my development and coding skills to efficiently fulfil the requirements of clients.</h3>
 
 
 <img align="center" alt="coding" width="900"  src="https://i.pinimg.com/originals/20/ed/06/20ed06db283022697f34602fdba35ae3.gif" >
