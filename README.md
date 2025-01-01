@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ashutosh </h1>
-<h3 align="center">Final year Student at G.B Pant Institute of Engineering and Technology, pursuing B.Tech in Computer Science and Engineering. I am a FullStack Web Developer and a Freelance Web Developer. A dedicated IT professional possessing a passion for programming and seeking a software engineering position where I can utilize my development and coding skills to efficiently fulfil the requirements of clients.</h3>
+<div align="center">
+  <h2>About Me</h2>
+  <ul style="list-style: none; padding: 0; font-size: 1.2rem; line-height: 1.6;">
+    <li>🚀 <strong>Freelance Software Engineer</strong> with 2+ years of experience</li>
+    <li>👥 Successfully led a <strong>team of 8 developers</strong></li>
+    <li>💼 Delivered <strong>25+ projects</strong> across diverse domains:</li>
+    <ul style="list-style: disc; margin-left: 2rem;">
+      <li>Flight and hotel booking systems</li>
+      <li>E-commerce platforms</li>
+      <li>Social media applications</li>
+      <li>Customer Relationship Management (CRM) solutions</li>
+    </ul>
+    <li>🌟 Skilled in <strong>software development</strong> and <strong>team leadership</strong></li>
+    <li>🎯 Seeking a <strong>full-time role</strong> to drive impactful results</li>
+  </ul>
+</div>
 
 
 <img align="center" alt="coding" width="900"  src="https://i.pinimg.com/originals/20/ed/06/20ed06db283022697f34602fdba35ae3.gif" >
